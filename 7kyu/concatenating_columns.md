@@ -1,4 +1,4 @@
 -- https://www.codewars.com/kata/59440034e94fae05b2000073/train/sql
 
 /*  SQL  */
-select concat(prefix, ' ',first, ' ', last, ' ',suffix) as title from names
+select concat(prefix, ' ',first, ' ', last, ' ',suffix) as title from names 
