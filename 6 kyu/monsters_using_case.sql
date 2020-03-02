@@ -1,4 +1,4 @@
-SQL Basics - Monsters using CASE
+-- SQL Basics - Monsters using CASE
 
 
         SELECT 

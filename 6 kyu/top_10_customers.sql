@@ -1,4 +1,4 @@
-# SQL Basics: Top 10 customers by total payments amount
+--# SQL Basics: Top 10 customers by total payments amount
 
         -- Replace with your query (in pure SQL)
 

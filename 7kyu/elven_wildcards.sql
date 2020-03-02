@@ -1,4 +1,4 @@
-https://www.codewars.com/kata/5ad90fb688a0b74111000055/train/sql
+-- https://www.codewars.com/kata/5ad90fb688a0b74111000055/train/sql
 
 It's been kind of weird to capitalize only the first element of a str
 
