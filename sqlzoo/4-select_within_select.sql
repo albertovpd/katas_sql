@@ -39,13 +39,13 @@ where
 gdp > all (select gdp from world where gdp >0 and continent = 'Europe')
 -- ====================================> it feels weird to use this gdp>0
 
---Find the largest country (by area) in each continent, show the continent, the name and the area:  
+--7 Find the largest country (by area) in each continent, show the continent, the name and the area:  
 SELECT continent, name, area 
 FROM world as x 
 WHERE 
 area >= ALL(SELECT area FROM world as y WHERE x.continent = y.continent AND y.area>0);
 
---List each continent and the name of the country that comes first alphabetically.
+--8 List each continent and the name of the country that comes first alphabetically.
 SELECT 
 continent, name 
 FROM 
